@@ -17,5 +17,12 @@
 
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2025s-dong-wu-yuan-pinto-model-zoo-niyou-binixing-kou)
 
+## 4/12-13：【つくろがや3】中華ゲーム機でPyxel製アプリを動かしてみた
+<img src="https://github.com/user-attachments/assets/1cec3145-ff7e-4e57-ae3c-142672633167" width="360px" height="360px">
+
+パス：- ※資料公開無し
+
+資料：資料公開無し
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
