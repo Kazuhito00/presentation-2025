@@ -10,12 +10,12 @@
 * [presentation-2019](https://github.com/Kazuhito00/presentation-2019)
 
 # Contents
-## 1/28：【NGK2024S】 それ、パワポですか？
-<img src="https://github.com/Kazuhito00/presentation-2024/assets/37477845/4b25af37-0e00-498f-abbb-4fda3665f2e7" width="640px" height="360px">
+## 1/18：【NGK2025S】動物園（PINTO_model_zoo）に遊びに行こう🦔
+<img src="https://github.com/user-attachments/assets/2bbc3b1b-2389-44f6-971a-096f669e609b" width="640px" height="360px">
 
-パス：- ※YouTubeのみ
+パス：- ※SpeakerDeckのみ
 
-資料：[Youtube](https://www.youtube.com/watch?v=Hg3fCm8zBb0&t)
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2025s-dong-wu-yuan-pinto-model-zoo-niyou-binixing-kou)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
