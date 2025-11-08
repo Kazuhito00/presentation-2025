@@ -24,5 +24,11 @@
 
 資料：資料公開無し
 
+## 11/8：【Pycon mini 東海 2025】PyScriptとOpenCVを使ってWebで画像処理AI
+<img src="https://github.com/user-attachments/assets/6fd581f3-7b3c-4468-b11e-40e5ac23b7ea" width="640px" height="360px">
+
+資料：[GitHub Pages](https://kazuhito00.github.io/Pycon-mini-Tokai-2025-PyScript-OpenCV/index.html) <!-- [SpeakerDeck]() / [Youtube]() --> <br>
+関連リポジトリ：https://github.com/Kazuhito00/Pycon-mini-Tokai-2025-PyScript-OpenCV
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
